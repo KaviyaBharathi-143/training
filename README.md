@@ -7,6 +7,7 @@
 | [0088-merge-sorted-array](https://github.com/KaviyaBharathi-143/training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaviyaBharathi-143/training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/KaviyaBharathi-143/training/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/KaviyaBharathi-143/training/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,10 +25,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/KaviyaBharathi-143/training/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/KaviyaBharathi-143/training/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/KaviyaBharathi-143/training/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/KaviyaBharathi-143/training/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +45,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/KaviyaBharathi-143/training/tree/main/0088-merge-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/KaviyaBharathi-143/training/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/KaviyaBharathi-143/training/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/KaviyaBharathi-143/training/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
