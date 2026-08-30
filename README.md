@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/KaviyaBharathi-143/training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaviyaBharathi-143/training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/KaviyaBharathi-143/training/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
@@ -30,10 +31,15 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/KaviyaBharathi-143/training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/KaviyaBharathi-143/training/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/KaviyaBharathi-143/training/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/KaviyaBharathi-143/training/tree/main/0242-valid-anagram/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/KaviyaBharathi-143/training/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
