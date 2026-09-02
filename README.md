@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/KaviyaBharathi-143/training/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KaviyaBharathi-143/training/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaviyaBharathi-143/training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/KaviyaBharathi-143/training/tree/main/0136-single-number/) | Easy |
@@ -14,6 +15,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/KaviyaBharathi-143/training/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaviyaBharathi-143/training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/KaviyaBharathi-143/training/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/KaviyaBharathi-143/training/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
