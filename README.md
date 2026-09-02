@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/KaviyaBharathi-143/training/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KaviyaBharathi-143/training/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/KaviyaBharathi-143/training/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/KaviyaBharathi-143/training/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/KaviyaBharathi-143/training/tree/main/0268-missing-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/KaviyaBharathi-143/training/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/KaviyaBharathi-143/training/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
