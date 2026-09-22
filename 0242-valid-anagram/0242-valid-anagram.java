@@ -8,7 +8,6 @@ class Solution {
             char ch = s.charAt(i);
             if(!map.containsKey(ch)){
                 map.put(ch,1);
-            
             }else{
                 map.put(ch,map.get(ch)+1);
             }
@@ -25,7 +24,5 @@ class Solution {
             }
         }
         return true;
-
-
     }
 }
