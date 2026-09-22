@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/KaviyaBharathi-143/training/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KaviyaBharathi-143/training/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/KaviyaBharathi-143/training/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/KaviyaBharathi-143/training/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/KaviyaBharathi-143/training/tree/main/0509-fibonacci-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/KaviyaBharathi-143/training/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/KaviyaBharathi-143/training/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
@@ -97,4 +99,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/KaviyaBharathi-143/training/tree/main/0075-sort-colors/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/KaviyaBharathi-143/training/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/KaviyaBharathi-143/training/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
