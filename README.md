@@ -58,6 +58,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/KaviyaBharathi-143/training/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/KaviyaBharathi-143/training/tree/main/0242-valid-anagram/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@
 | [0015-3sum](https://github.com/KaviyaBharathi-143/training/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/KaviyaBharathi-143/training/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KaviyaBharathi-143/training/tree/main/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/KaviyaBharathi-143/training/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/KaviyaBharathi-143/training/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
