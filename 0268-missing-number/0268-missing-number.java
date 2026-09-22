@@ -5,11 +5,8 @@ class Solution {
         int sumOfNums=0;
         for(int i=0;i<n;i++){
             sumOfNums=sumOfNums + nums[i];
-
         }
         int res=SumOfn-sumOfNums;
         return res;
-
-
     }
 }
