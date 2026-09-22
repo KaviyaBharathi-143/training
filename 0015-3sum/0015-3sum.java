@@ -1,55 +1,35 @@
 import java.util.*;
-
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-
         List<List<Integer>> result = new ArrayList<>();
-
         Arrays.sort(nums);
-
         for (int i = 0; i < nums.length - 2; i++) {
-
-            // Skip duplicate first elements
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
-
-            // If nums[i] is positive, sum cannot be 0
             if (nums[i] > 0) {
                 break;
             }
-
             int left = i + 1;
             int right = nums.length - 1;
-
             while (left < right) {
-
                 int sum = nums[i] + nums[left] + nums[right];
-
                 if (sum == 0) {
-
                     result.add(Arrays.asList(
                         nums[i],
                         nums[left],
                         nums[right]
                     ));
-
-                    // Skip duplicate left values
                     while (left < right &&
                            nums[left] == nums[left + 1]) {
                         left++;
                     }
-
-                    // Skip duplicate right values
                     while (left < right &&
                            nums[right] == nums[right - 1]) {
                         right--;
                     }
-
-                    // Move both pointers
                     left++;
-                    right--;   // IMPORTANT: decrement, not increment
-
+                    right--;  
                 } 
                 else if (sum < 0) {
                     left++;
@@ -59,7 +39,6 @@ class Solution {
                 }
             }
         }
-
         return result;
     }
 }
